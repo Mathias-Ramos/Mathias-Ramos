@@ -6,6 +6,8 @@ Je suis **Data Analyst & Analytics Engineer**.
 
 Après 5 ans à piloter des projets, j'ai choisi de faire évoluer ma carrière et suivre ma passion pour la **Data**. J’interviens aussi bien sur l’analyse des données que sur les fondations nécessaires à leur exploitation.
 
+---
+
 ### 📚 Mes projets
 
 > Analyse de données · Data Visualization · Analytics Engineering · Data Engineering
@@ -24,6 +26,8 @@ Vous trouverez dans mon [portfolio](https://github.com/Mathias-Ramos/Portfolio) 
 - ⚙️ **Analytics Engineering** — pipelines et modèles avec dbt
 - ☁️ **Cloud & Data Engineering** — BigQuery, Snowflake, GCP, AWS
 
+---
+
 ### 🛠️ Stack technique
 
 | Domaine | Outils |
@@ -35,6 +39,8 @@ Vous trouverez dans mon [portfolio](https://github.com/Mathias-Ramos/Portfolio) 
 | **Analytics Engineering** | `dbt` |
 | **Versioning** | `Git` · `GitHub` |
 | **AI & Automatisation** | `LLMs` · `Prompt Engineering` · `Skills` |
+
+---
 
 ### 🚀 Contact
 
