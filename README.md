@@ -6,6 +6,10 @@ Je suis **Data Analyst & Analytics Engineer**.
 
 Après 5 ans à piloter des projets, j'ai choisi de faire évoluer ma carrière et suivre ma passion pour la **Data**. J’interviens aussi bien sur l’analyse des données que sur les fondations nécessaires à leur exploitation.
 
+### 📚 Mes projets
+
+Vous trouverez mes projets autour de l'analyse de données, de la modélisation et de la data engineering dans mon [Portfolio](https://github.com/Mathias-Ramos/Portfolio).
+
 ### 🛠️ Mes outils
 
 - **Languages** : SQL, Python  
@@ -14,10 +18,6 @@ Après 5 ans à piloter des projets, j'ai choisi de faire évoluer ma carrière 
 - **Data Engineering** : dbt  
 - **Versioning** : Git, GitHub  
 - **AI & Automatisation** : LLMs, Prompt Engineering, Skills
-
-### 📚 Mes projets
-
-Vous trouverez mes projets autour de l'analyse de données, de la modélisation et de la data engineering dans mon [Portfolio](https://github.com/Mathias-Ramos/Portfolio).
 
 ### 🚀 Contact
 
