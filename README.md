@@ -8,17 +8,41 @@ Après 5 ans à piloter des projets, j'ai choisi de faire évoluer ma carrière 
 
 ### 📚 Mes projets
 
-Vous trouverez mes projets autour de l'analyse de données, de la modélisation et de la data engineering dans mon [Portfolio](https://github.com/Mathias-Ramos/Portfolio).
+> Analyse de données · Data Visualization · Analytics Engineering · Data Engineering
 
-### 🛠️ Mes outils
+Vous trouverez dans mon [portfolio](https://github.com/Mathias-Ramos/Portfolio) tous mes projets :
 
-- **Languages** : SQL, Python  
-- **Databases & Cloud** : BigQuery, Snowflake, GCP, AWS  
-- **Visualisation** : Looker Studio, Power BI  
-- **Data Engineering** : dbt  
-- **Versioning** : Git, GitHub  
-- **AI & Automatisation** : LLMs, Prompt Engineering, Skills
+<p align="left">
+  <a href="https://github.com/Mathias-Ramos/Portfolio">
+    <img src="https://img.shields.io/badge/📁%20VOIR%20MON%20PORTFOLIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Voir mon Portfolio"/>
+  </a>
+</p>
+
+- 📈 **Data Analysis** — exploration, statistiques et recommandations
+- 📊 **Data Visualization** — dashboards et storytelling
+- 🧱 **Data Modeling** — transformation et structuration des données
+- ⚙️ **Analytics Engineering** — pipelines et modèles avec dbt
+- ☁️ **Cloud & Data Engineering** — BigQuery, Snowflake, GCP, AWS
+
+### 🛠️ Stack technique
+
+| Domaine | Outils |
+|:---|:---|
+| **Data Analysis** | `Python` · `SQL` |
+| **Data Visualization** | `Power BI` · `Looker Studio` |
+| **Data Warehousing** | `BigQuery` · `Snowflake` |
+| **Cloud** | `GCP` · `AWS` |
+| **Analytics Engineering** | `dbt` |
+| **Versioning** | `Git` · `GitHub` |
+| **AI & Automatisation** | `LLMs` · `Prompt Engineering` · `Skills` |
 
 ### 🚀 Contact
 
-🔗 [LinkedIn](https://linkedin.com/in/mathiasramos)
+<p align="left">
+  <a href="https://linkedin.com/in/mathiasramos">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Mathias-Ramos/Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
