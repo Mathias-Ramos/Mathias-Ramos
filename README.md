@@ -4,7 +4,7 @@
 
 Je suis **Data Analyst & Analytics Engineer**.
 
-Après 5 ans à piloter des projets, j'ai choisi de faire évoluer ma carrière et suivre ma passion pour la **Data**. J'aime autant explorer les données pour répondre à des problématiques métiers que construire les fondations qui permettent de les exploiter proprement.
+Après 5 ans à piloter des projets, j'ai choisi de faire évoluer ma carrière et suivre ma passion pour la **Data**. J’interviens aussi bien sur l’analyse des données que sur les fondations nécessaires à leur exploitation.
 
 ### 🛠️ Mes outils
 
